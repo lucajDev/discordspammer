@@ -35,8 +35,8 @@ Follow these steps to get the application running on your local machine.
 First, clone this repository to your local machine or download the source code as a ZIP file.
 
 ```bash
-git clone [https://github.com/your-username/your-repository-name.git](https://github.com/your-username/your-repository-name.git)
-cd your-repository-name 
+git clone [https://github.com/lucajDev/discordspammer.git](https://github.com/lucajDev/discordspammer.git)
+cd discordspammer
 ```
 
 ### 2. Install Dependencies
